@@ -28,6 +28,7 @@ nav div a {
   padding-left: 2rem;
   text-decoration: none;
   font-size: 1.05rem;
+  color: white;
 }
 
 .main-content {
@@ -38,7 +39,7 @@ nav div a {
   width: 100vw;
   height: 110vh;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   z-index: -1;
   background-attachment: fixed;
 }
@@ -73,4 +74,4 @@ nav div a {
   padding: 2rem 20rem;
   text-align: center;
   font-size: 1.1rem;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
